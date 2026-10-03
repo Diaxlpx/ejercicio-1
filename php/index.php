@@ -12,8 +12,7 @@ print"<h1>EJERCICIO 9</h1>";
 
 print"<p>Construya un programa que resuelva el problema que tienen en una gasolinera. Los surtidores de la misma registran lo que “surten”
 en galones, pero el precio de la gasolina está fijado en litros. El programa debe calcular e imprimir lo que hay que cobrarle al cliente. Se
-debe considerar que cada galón tiene 3.785 litros y el precio del litro es $4.50.
-</p>";
+debe considerar que cada galón tiene 3.785 litros y el precio del litro es $4.50.<br> <strong>sabiendo que el cliente comprara 10 galones</strong></p>";
 
 print"<hr>";
 print"<hr>";

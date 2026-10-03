@@ -15,7 +15,7 @@
 print"<hr>";
 print"<h1> EJERCICIO 2 </h1>";
 
-print"<p>Construya un programa tal que dado los datos enteros A y B, escriba el resultado de la siguiente expresión:</p> <strong>(A + B)^2 / 2</strong>";
+print"<p>Construya un programa tal que dado los datos enteros A y B, escriba el resultado de la siguiente expresión:</p> <strong>(A + B)^2 / 3</strong>";
 print"<br>";
 print"<p>Dado que: <br> A= 20 <br> B=5 </p>";
 print"<hr>";
